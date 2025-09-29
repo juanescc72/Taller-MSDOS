@@ -1,0 +1,499 @@
+Listado de rutas de carpetas para el volumen OS
+El número de serie del volumen es F80F-5925
+C:.
+¦   Balatro.url
+¦   capitulo1.txt
+¦   capitulo2.txt
+¦   Castle Crashers.url
+¦   Cyberpunk 2077.url
+¦   DELTARUNE.url
+¦   doc2.txt
+¦   ejemplo.txt
+¦   estaciones.txt
+¦   estructura.txt
+¦   Fortnite.url
+¦   Genshin Impact.url
+¦   Geometry Dash.url
+¦   GitHub Desktop.lnk
+¦   historia_completa.txt
+¦   Hollow Knight Silksong.url
+¦   Hollow Knight.url
+¦   Hotline Miami.url
+¦   juanesgamertv - Chrome.lnk
+¦   LEGO® Batman™ 2 DC Super Heroes.url
+¦   meses.txt
+¦   Navegador Opera.lnk
+¦   PEAK.url
+¦   Roblox Player.lnk
+¦   Roblox Studio.lnk
+¦   SKlauncher.lnk
+¦   Thunderstore Mod Manager.lnk
+¦   Visual Studio Code.lnk
+¦   
++---Backup
+¦       ejemplo.txt
+¦       
++---Carpeta1
++---Carpeta2
++---Carpeta3
++---deltarune copia
+¦   ¦   data.win
+¦   ¦   DELTARUNE.exe
+¦   ¦   igor.output.manifest
+¦   ¦   options.ini
+¦   ¦   
+¦   +---chapter1_windows
+¦   ¦   ¦   audiogroup1.dat
+¦   ¦   ¦   AUDIO_INTRONOISE.ogg
+¦   ¦   ¦   data.win
+¦   ¦   ¦   options.ini
+¦   ¦   ¦   snd_closet_fall.ogg
+¦   ¦   ¦   snd_closet_impact.ogg
+¦   ¦   ¦   snd_great_shine.ogg
+¦   ¦   ¦   snd_paper_rumble.ogg
+¦   ¦   ¦   snd_paper_surf.ogg
+¦   ¦   ¦   snd_revival.ogg
+¦   ¦   ¦   snd_rurus_appear.ogg
+¦   ¦   ¦   snd_usefountain.ogg
+¦   ¦   ¦   
+¦   ¦   +---lang
+¦   ¦           lang_en.json
+¦   ¦           lang_ja.json
+¦   ¦           
+¦   +---chapter2_windows
+¦   ¦   ¦   audiogroup1.dat
+¦   ¦   ¦   AUDIO_INTRONOISE.ogg
+¦   ¦   ¦   data.win
+¦   ¦   ¦   options.ini
+¦   ¦   ¦   snd_bigcar_yelp.ogg
+¦   ¦   ¦   snd_closet_fall.ogg
+¦   ¦   ¦   snd_closet_impact.ogg
+¦   ¦   ¦   snd_dtrans_drone.ogg
+¦   ¦   ¦   snd_dtrans_flip.ogg
+¦   ¦   ¦   snd_dtrans_heavypassing.ogg
+¦   ¦   ¦   snd_dtrans_lw.ogg
+¦   ¦   ¦   snd_dtrans_square.ogg
+¦   ¦   ¦   snd_dtrans_twinkle.ogg
+¦   ¦   ¦   snd_fountain_make.ogg
+¦   ¦   ¦   snd_fountain_target.ogg
+¦   ¦   ¦   snd_ghostappear.ogg
+¦   ¦   ¦   snd_great_shine.ogg
+¦   ¦   ¦   snd_him_quick.ogg
+¦   ¦   ¦   snd_hitcar.ogg
+¦   ¦   ¦   snd_hitcar_little.ogg
+¦   ¦   ¦   snd_icespell.ogg
+¦   ¦   ¦   snd_paper_rumble.ogg
+¦   ¦   ¦   snd_paper_surf.ogg
+¦   ¦   ¦   snd_power
+¦   ¦   ¦   snd_revival.ogg
+¦   ¦   ¦   snd_rurus_appear.ogg
+¦   ¦   ¦   snd_smallcar_yelp.ogg
+¦   ¦   ¦   snd_snowgrave.ogg
+¦   ¦   ¦   snd_spell_pacify.ogg
+¦   ¦   ¦   snd_usefountain.ogg
+¦   ¦   ¦   
+¦   ¦   +---lang
+¦   ¦           lang_ja.json
+¦   ¦           
+¦   +---chapter3_windows
+¦   ¦   ¦   audiogroup1.dat
+¦   ¦   ¦   AUDIO_INTRONOISE.ogg
+¦   ¦   ¦   data.win
+¦   ¦   ¦   options.ini
+¦   ¦   ¦   snd_bigcar_yelp.ogg
+¦   ¦   ¦   snd_closet_fall.ogg
+¦   ¦   ¦   snd_closet_impact.ogg
+¦   ¦   ¦   snd_dtrans_drone.ogg
+¦   ¦   ¦   snd_dtrans_flip.ogg
+¦   ¦   ¦   snd_dtrans_heavypassing.ogg
+¦   ¦   ¦   snd_dtrans_lw.ogg
+¦   ¦   ¦   snd_dtrans_square.ogg
+¦   ¦   ¦   snd_dtrans_twinkle.ogg
+¦   ¦   ¦   snd_fountain_make.ogg
+¦   ¦   ¦   snd_fountain_target.ogg
+¦   ¦   ¦   snd_ghostappear.ogg
+¦   ¦   ¦   snd_great_shine.ogg
+¦   ¦   ¦   snd_him_quick.ogg
+¦   ¦   ¦   snd_hitcar.ogg
+¦   ¦   ¦   snd_hitcar_little.ogg
+¦   ¦   ¦   snd_icespell.ogg
+¦   ¦   ¦   snd_paper_rumble.ogg
+¦   ¦   ¦   snd_paper_surf.ogg
+¦   ¦   ¦   snd_revival.ogg
+¦   ¦   ¦   snd_rurus_appear.ogg
+¦   ¦   ¦   snd_smallcar_yelp.ogg
+¦   ¦   ¦   snd_snowgrave.ogg
+¦   ¦   ¦   snd_spell_pacify.ogg
+¦   ¦   ¦   snd_usefountain.ogg
+¦   ¦   ¦   
+¦   ¦   +---lang
+¦   ¦   ¦       lang_ja.json
+¦   ¦   ¦       
+¦   ¦   +---vid
+¦   ¦           tennaIntroF1_compressed_28.mp4
+¦   ¦           tennaIntroJPf1_compressed_28.mp4
+¦   ¦           
+¦   +---chapter4_windows
+¦   ¦   ¦   audiogroup1.dat
+¦   ¦   ¦   AUDIO_INTRONOISE.ogg
+¦   ¦   ¦   data.win
+¦   ¦   ¦   mus_undynescary.ogg
+¦   ¦   ¦   options.ini
+¦   ¦   ¦   snd_bigcar_yelp.ogg
+¦   ¦   ¦   snd_closet_fall.ogg
+¦   ¦   ¦   snd_closet_impact.ogg
+¦   ¦   ¦   snd_dtrans_drone.ogg
+¦   ¦   ¦   snd_dtrans_flip.ogg
+¦   ¦   ¦   snd_dtrans_heavypassing.ogg
+¦   ¦   ¦   snd_dtrans_lw.ogg
+¦   ¦   ¦   snd_dtrans_square.ogg
+¦   ¦   ¦   snd_dtrans_twinkle.ogg
+¦   ¦   ¦   snd_fountain_make.ogg
+¦   ¦   ¦   snd_fountain_target.ogg
+¦   ¦   ¦   snd_ghostappear.ogg
+¦   ¦   ¦   snd_great_shine.ogg
+¦   ¦   ¦   snd_him_quick.ogg
+¦   ¦   ¦   snd_hitcar.ogg
+¦   ¦   ¦   snd_hitcar_little.ogg
+¦   ¦   ¦   snd_icespell.ogg
+¦   ¦   ¦   snd_paper_rumble.ogg
+¦   ¦   ¦   snd_paper_surf.ogg
+¦   ¦   ¦   snd_revival.ogg
+¦   ¦   ¦   snd_rurus_appear.ogg
+¦   ¦   ¦   snd_smallcar_yelp.ogg
+¦   ¦   ¦   snd_snowgrave.ogg
+¦   ¦   ¦   snd_spell_pacify.ogg
+¦   ¦   ¦   snd_usefountain.ogg
+¦   ¦   ¦   
+¦   ¦   +---lang
+¦   ¦           lang_ja.json
+¦   ¦           
+¦   +---mus
+¦           acid_tunnel.ogg
+¦           afterrain_inside.ogg
+¦           alarm_titlescreen.ogg
+¦           alley_ambience.ogg
+¦           alt_church_lobby.ogg
+¦           ambientwater_weird.ogg
+¦           annoying_prophecy.ogg
+¦           april_2012.ogg
+¦           AUDIO_ANOTHERHIM.ogg
+¦           AUDIO_DARKNESS.ogg
+¦           AUDIO_DEFEAT.ogg
+¦           AUDIO_DRONE.ogg
+¦           AUDIO_STORY.ogg
+¦           baci_distort.ogg
+¦           baci_perugina.ogg
+¦           basement.ogg
+¦           battle.ogg
+¦           battle_preview.ogg
+¦           battle_preview_crisp.ogg
+¦           battle_vapor.ogg
+¦           bell_ambience.ogg
+¦           berdly_audience.ogg
+¦           berdly_battle_heartbeat_true.ogg
+¦           berdly_chase.ogg
+¦           berdly_descend.ogg
+¦           berdly_flashback.ogg
+¦           berdly_theme.ogg
+¦           bird.ogg
+¦           board4_rhythm.ogg
+¦           board_4.ogg
+¦           board_4_challenge.ogg
+¦           board_lancer_dig.ogg
+¦           board_ocean.ogg
+¦           board_sword_music.ogg
+¦           board_zelda.ogg
+¦           boxing_boss.ogg
+¦           boxing_boss_preview.ogg
+¦           boxing_boss_preview_crisp.ogg
+¦           boxing_game.ogg
+¦           card_castle.ogg
+¦           carol_appeared.ogg
+¦           castletown.ogg
+¦           castletown_empty.ogg
+¦           castle_funk_long.ogg
+¦           ch2_credits.ogg
+¦           ch3-practice_song_combined.ogg
+¦           ch3-practice_song_noguit.ogg
+¦           ch3_board1.ogg
+¦           ch3_board2.ogg
+¦           ch3_board3.ogg
+¦           ch3_karaoke_example_guitar_only_v2.ogg
+¦           ch3_karaoke_example_guit_only.ogg
+¦           ch3_karaoke_example_noguit.ogg
+¦           ch3_karaoke_example_noguitar_v2.ogg
+¦           ch3_karaoke_example_together_ex.ogg
+¦           ch3_karaoke_full.ogg
+¦           ch3_karaoke_no_guitar.ogg
+¦           ch3_karaoke_preview.ogg
+¦           ch3_karaoke_preview_crisp.ogg
+¦           ch3_south_of_the_border.ogg
+¦           ch3_tvtime.ogg
+¦           ch3_tvtime_guitar.ogg
+¦           ch4_battle.ogg
+¦           ch4_credits.ogg
+¦           ch4_extra_boss.ogg
+¦           ch4_first_intro.ogg
+¦           ch4_first_intro_breaking.ogg
+¦           charjoined.ogg
+¦           checkers.ogg
+¦           church_dark_study.ogg
+¦           church_hymn.ogg
+¦           church_lightning.ogg
+¦           church_lw.ogg
+¦           church_lw_night.ogg
+¦           church_wip.ogg
+¦           church_zone2_alt_longer_test.ogg
+¦           church_zone3.ogg
+¦           climb.ogg
+¦           coolbeat.ogg
+¦           creepychase.ogg
+¦           creepydoor.ogg
+¦           creepylandscape.ogg
+¦           cyber.ogg
+¦           cybercity.ogg
+¦           cybercity_alt.ogg
+¦           cybercity_old.ogg
+¦           cyberhouse.ogg
+¦           cybershop_christmas.ogg
+¦           cyber_battle.ogg
+¦           cyber_battle_end.ogg
+¦           cyber_battle_prelude.ogg
+¦           cyber_shop.ogg
+¦           d.ogg
+¦           darkchurch_intro.ogg
+¦           dark_place.ogg
+¦           deep_noise.ogg
+¦           dogcheck.ogg
+¦           dontforget.ogg
+¦           elevator.ogg
+¦           fanfare.ogg
+¦           field_of_hopes.ogg
+¦           field_of_hopes_preview.ogg
+¦           field_of_hopes_preview_crisp.ogg
+¦           findher.ogg
+¦           flashback_excerpt.ogg
+¦           forest.ogg
+¦           friendship.ogg
+¦           GALLERY.ogg
+¦           gameover_short.ogg
+¦           gerson_defeated.ogg
+¦           gerson_theme_intro.ogg
+¦           gerson_theme_nointro.ogg
+¦           giant_queen_appears.ogg
+¦           gigaqueen_pre.ogg
+¦           glacier.ogg
+¦           greenroom_detune.ogg
+¦           heartbeat.ogg
+¦           hip_shop.ogg
+¦           home.ogg
+¦           honksong.ogg
+¦           jitterbug.ogg
+¦           jitterbug_muffled.ogg
+¦           joker.ogg
+¦           KEYGEN.ogg
+¦           kingboss.ogg
+¦           knight.ogg
+¦           knight_appears.ogg
+¦           kris_piano_lancer_waltz.ogg
+¦           kris_piano_last_prophecy.ogg
+¦           kris_piano_lower.ogg
+¦           kris_piano_prophecy.ogg
+¦           kris_piano_quiz.ogg
+¦           kris_piano_rouxls.ogg
+¦           kris_piano_sevenfour.ogg
+¦           kris_piano_shop.ogg
+¦           kris_piano_waitingroom.ogg
+¦           lancer.ogg
+¦           lancerfight.ogg
+¦           lancer_annoying.ogg
+¦           lancer_susie.ogg
+¦           legend.ogg
+¦           legend_altered.ogg
+¦           man.ogg
+¦           mansion.ogg
+¦           mansion_entrance.ogg
+¦           man_2.ogg
+¦           man_nes.ogg
+¦           me.ogg
+¦           menu.ogg
+¦           mike.ogg
+¦           mike_zone.ogg
+¦           minigame_kart.ogg
+¦           muffled_rain.ogg
+¦           muscle.ogg
+¦           music_guys.ogg
+¦           music_guys_intro.ogg
+¦           mus_birdnoise.ogg
+¦           mus_confession.ogg
+¦           mus_introcar.ogg
+¦           mus_knightthought.ogg
+¦           mus_race.ogg
+¦           mus_school.ogg
+¦           mus_temloopshort.ogg
+¦           napsta_alarm.ogg
+¦           nes_intro_extended_part2.ogg
+¦           newscast.ogg
+¦           nightmare_boss_heavy.ogg
+¦           nightmare_boss_links.ogg
+¦           nightmare_nes.ogg
+¦           night_ambience.ogg
+¦           noelle.ogg
+¦           noelleshouseoutside.ogg
+¦           noelle_distant.ogg
+¦           noelle_ferriswheel.ogg
+¦           noelle_house_wip.ogg
+¦           noelle_normal.ogg
+¦           noelle_school.ogg
+¦           northernlight.ogg
+¦           ocean.ogg
+¦           oldman_helps_out.ogg
+¦           ominous_message.ogg
+¦           ominous_stab_harsh.ogg
+¦           ominous_stab_harsh_2.ogg
+¦           ominous_worse.ogg
+¦           pianpian.ogg
+¦           prejoker.ogg
+¦           pumpkin_boss.ogg
+¦           queen.ogg
+¦           queen_boss.ogg
+¦           queen_car_radio.ogg
+¦           queen_intro.ogg
+¦           quiet_autumn.ogg
+¦           quiet_church.ogg
+¦           rain.ogg
+¦           raining.ogg
+¦           raining_in_church2.ogg
+¦           rhythm_knockdown_combined.ogg
+¦           rhythm_knockdown_no_guit.ogg
+¦           root_8bit.ogg
+¦           rouxls_battle.ogg
+¦           rtenna_zoom.ogg
+¦           rudebuster_boss.ogg
+¦           ruruskaado.ogg
+¦           sadchord2.ogg
+¦           second_church.ogg
+¦           shinkansen.ogg
+¦           shop1.ogg
+¦           sinedrone_danger.ogg
+¦           sinedrone_danger_high.ogg
+¦           sink_noise.ogg
+¦           smallpiano_room.ogg
+¦           sound_battle_bg.ogg
+¦           spamton_basement.ogg
+¦           spamton_battle.ogg
+¦           spamton_dance.ogg
+¦           spamton_happy.ogg
+¦           spamton_house.ogg
+¦           spamton_laugh_noise.ogg
+¦           spamton_meeting.ogg
+¦           spamton_meeting_intro.ogg
+¦           spamton_neo_after.ogg
+¦           spamton_neo_meeting.ogg
+¦           spamton_neo_mix_ex_wip.ogg
+¦           static_placeholder.ogg
+¦           statue2_level1.ogg
+¦           statue2_level2.ogg
+¦           statue2_level3.ogg
+¦           statue2_level4.ogg
+¦           statue2_level5.ogg
+¦           statue_chord_basic.ogg
+¦           statue_level1.ogg
+¦           statue_level2.ogg
+¦           statue_level3.ogg
+¦           statue_level4.ogg
+¦           stealth.ogg
+¦           strongwind_loop.ogg
+¦           susie_diner.ogg
+¦           s_neo.ogg
+¦           s_neo_clip.ogg
+¦           tenna_battle.ogg
+¦           tenna_battle_guitar.ogg
+¦           tenna_battle_old.ogg
+¦           tenna_battle_preview.ogg
+¦           tenna_battle_preview_crisp.ogg
+¦           tenna_island.ogg
+¦           tense.ogg
+¦           the_dark_truth.ogg
+¦           THE_HOLY.ogg
+¦           thrashmachine.ogg
+¦           thrash_rating.ogg
+¦           tinnitus.ogg
+¦           tin_night.ogg
+¦           titan_battle.ogg
+¦           titan_pre.ogg
+¦           titan_spawn.ogg
+¦           titan_tower.ogg
+¦           town.ogg
+¦           town_day.ogg
+¦           trank.ogg
+¦           tvromance.ogg
+¦           tv_changingroom.ogg
+¦           TV_GAME.ogg
+¦           tv_hall_of_fame.ogg
+¦           tv_infrontof.ogg
+¦           tv_noise.ogg
+¦           tv_results_screen.ogg
+¦           tv_static_bad.ogg
+¦           tv_world.ogg
+¦           vs_susie.ogg
+¦           w.ogg
+¦           wet_tapdancing.ogg
+¦           wet_tapdancing2.ogg
+¦           wet_tapdancing_failed.ogg
+¦           wind.ogg
+¦           wind_highplace.ogg
+¦           
++---Documentos
+¦   +---Trabajo
+¦       +---Proyectos
++---fotos
+¦   +---2023
+¦       +---Asia
+¦       +---Europa
++---Informes
+¦   ¦   notas_definitivas_computacion_2023.txt
+¦   ¦   
+¦   +---Examenes
+¦           parcial1.txt_final_2023.txt
+¦           parcial2.txt_final_2023.txt
+¦           parcial3.txt_final_2023.txt
+¦           
++---mirepo
+¦   ¦   ciudades.txt
+¦   ¦   coso.txt
+¦   ¦   frutas.txt
+¦   ¦   paises.txt
+¦   ¦   
+¦   +---mirepo
+¦           ciudades.txt
+¦           frutas.txt
+¦           paises.txt
+¦           
++---Mis documentos
++---MisiónSecreta
+¦   ¦   doc1.txt
+¦   ¦   doc2.txt
+¦   ¦   doc2.txtt
+¦   ¦   doc3.txt
+¦   ¦   
+¦   +---Refugio
+¦           doc1.txt
+¦           doc2.txt
+¦           doc2.txtt
+¦           doc3.txt
+¦           documento_falso.txt
+¦           
++---practica-merge
+¦       cuento.md
+¦       
++---practica.merge
++---repaso
+¦       balatro.txt
+¦       vaina.txt
+¦       
++---vaina
+        Desktop
+        hola.txt
+        
